@@ -1,4 +1,4 @@
-# biarritztoulouse
+
 
 cat wilders.csv 
 pc@pc-VirtualBox:~/Bureau$ grep "France,2019,PHP" < wilders.csv | wc -l > php_france_2019.csv
