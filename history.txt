@@ -1,0 +1,50 @@
+   64  grep "Toulouse,JavaScript" < wilders.csv | > javascript_biarritz_toulouse.php
+   65  grep "Toulouse,JavaScript" wilders.csv > javascript_biarritz_toulouse.php
+   66  grep "Toulouse;JavaScript" wilders.csv > javascript_biarritz_toulouse.php
+   67  grep "Toulouse;JavaScript" wilders.csv > | > javascript_biarritz_toulouse.php
+   68  grep "Toulouse;JavaScript" wilders.csv > javascript_biarritz_toulouse.php
+   69  grep " ;Toulouse;JavaScript" wilders.csv > javascript_biarritz_toulouse.php
+   70  grep "Biarritz;Toulouse" wilders.csv > javascript_biarritz_toulouse.php
+   71  ls
+   72  grep "Biarritz;Toulouse" wilders.csv > javascript_biarritz_toulouse.php
+   73  grep "Biarritz" wilders.csv > javascript_biarritz_toulouse.php
+   74  grep "Biarritz;Javascti" wilders.csv > javascript_biarritz_toulouse.php
+   75  grep "Biarritz;Javascript" wilders.csv > javascript_biarritz_toulouse.php
+   76  grep "Biarritz" wilders.csv > javascript_biarritz_toulouse.php
+   77  clear
+   78  grep "Biarritz" wilders.csv > javascript_biarritz_toulouse.php
+   79  grep "Toulouse" wilders.csv > javascript_biarritz_toulouse.php
+   80  grep "Toulouse" "Biarritz"  wilders.csv > javascript_biarritz_toulouse.php
+   81  grep "Toulouse" "Biarritz" wilders.csv > javascript_biarritz_toulouse.php
+   82  grep "Toulouse,Biarritz" wilders.csv > javascript_biarritz_toulouse.php
+   83  grep "Biarritz" wilders.csv > javascript_biarritz_toulouse.php
+   84  grep "Toulouse,Biarritz" wilders.csv > javascript_biarritz_toulouse.php
+   85  grep "Toulouse" wilders.csv > javascript_biarritz_toulouse.php
+   86  grep "Javascript" wilders.csv > javascript_biarritz_toulouse.php
+   87  grep "JavaScript" wilders.csv > javascript_biarritz_toulouse.php
+   88  grep "Toulouse" javascript_biarritz_toulouse.php > javascript_biarritz_toulouse.php
+   89  cat Toulouse Biarritz | sort -u
+   90  cat Toulouse | sort -u
+   91  clear
+   92  cat javascript_biarritz_toulouse.php | sort -u
+   93  head javascript_biarritz_toulouse.php 
+   94  head -n30 javascript_biarritz_toulouse.php 
+   95  clear
+   96  grep "Toulouse;JavaScript" wilders.csv > btjava.csv
+   97  cat wilders.csv
+   98  clear
+   99  grep "Toulouse,JavaScript" wilders.csv > btjava.csv
+  100  grep JavaScript wilders.csv > btjava.csv
+  101  cat btjava
+  102  cat btjava.csv 
+  103  grep Toulouse btjava.csv > tjava.csv
+  104  grep Biarritz btjava.csv > bjava.csv
+  105  cat tjava.csv bjava.csv > javascript_biarritz_toulouse.csv
+  106  history
+  107  tail
+  108  history tail
+  109  man tail
+  110  history
+  111  clear
+  112  history
+  113  history | tail -n 50 > history.txt
